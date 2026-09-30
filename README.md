@@ -18,7 +18,8 @@
 ### 💻 Projets notables
 
 * **Simulation d'un pendule non linéaire** (*Python / Jupyter*)  
-  Modélisation numérique d'un système dynamique, résolution et visualisation des espaces de phases. -> 
+  Modélisation numérique d'un système dynamique, résolution et visualisation des espaces de phases.
+  -> https://github.com/Lenny-zcr/Lenny-zcr/blob/main/Project.ipynb.ipynb 
 
 * **Génération et Manipulation de Maillages** (*C++*)  
   Traitement et structuration géométrique pour des applications de simulation numérique. -> *(Hébergé sur le GitLab de l'université)*
